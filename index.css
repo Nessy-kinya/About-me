@@ -1,0 +1,52 @@
+#n{text-align: center;
+color: orange;
+font-weight:bold;
+font-size: 70px;
+font-style: italic;
+font-weight: bolder;
+text-shadow: 2px 2px 2px grey;
+text-transform: uppercase;
+text-align: center;
+
+}
+#mr:hover{
+  transform: scale(1.7);
+}
+h1::first-letter{
+  font-size: 200px;
+  color: #8A2BE2;
+}
+.kel{
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 500px;
+}
+.skills{
+  text-align: center;
+color: orange;
+list-style-type: none;}
+.skills:hover{
+  color: teal;
+}
+
+.button{
+  display: block;
+  margin-left:auto;
+  margin-right:auto;
+  font-size: 20px
+}
+.button{
+  background-color: orange;
+  color: white;
+  border-radius: 20px;
+box-shadow: 5px 5px 5px teal;
+}
+.button:hover{background-color:red;
+border:5px solid black;}
+#queen{
+  text-align: center;
+  color:teal;
+}
+#idea{text-align: center;
+color:teal}
